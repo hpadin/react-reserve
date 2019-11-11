@@ -1,1 +1,1 @@
-## Starting Repo for MERN Stack - The Complete Guide
+## Repo for MERN Stack
